@@ -75,7 +75,7 @@ Me chamo Phillipe Gabriel dos Santos Almeida, tenho 17 anos e sou natural de Sã
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="170" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almeidaph&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
