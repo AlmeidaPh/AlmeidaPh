@@ -3,7 +3,9 @@
 
 **`Cursando Técnico em Informática Para a Internet`**
 
-Me chamo Phillipe Gabriel dos Santos Almeida, tenho 17 anos e sou natural de São Luís, MA. Atualmente, estou cursando o 3º ano do ensino médio e estou no segundo módulo de um curso técnico no período noturno em Informática para a Internet na ETEC de Hortolândia, SP.
+Olá, me chamo Phillipe, tenho 17 anos e estou no 3º ano do ensino médio. Também curso Informática para a Internet na ETEC de Hortolândia, SP.
+Atualmente, estou me dedicando ao desenvolvimento web, mas meu foco principal e onde quero me aprofundar são as áreas de cibersegurança e robótica. 🔒🤖
+Tenho bastante familiaridade com PHP, JavaScript e C, e estou sempre experimentando novas tecnologias e projetos para evoluir constantemente.
 
 
 ---
