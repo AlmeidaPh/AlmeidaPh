@@ -3,8 +3,8 @@
 
 **`Cursando Técnico em Informática Para a Internet`**
 
-Olá, me chamo Phillipe, tenho 17 anos e estou no 3º ano do ensino médio. Também curso Informática para a Internet na ETEC de Hortolândia, SP.<br>Atualmente, estou me dedicando ao desenvolvimento web, mas meu foco principal e onde quero me aprofundar são as áreas de cibersegurança e robótica. 🔒🤖<br>Tenho bastante familiaridade com PHP, JavaScript e C, e estou sempre experimentando novas tecnologias e projetos para evoluir constantemente.
-
+Olá, me chamo Phillipe! Tenho 18 anos e estou no 3º ano do Ensino Médio, além de cursar Informática para a Internet na ETEC de Hortolândia - SP. Atualmente, estou me dedicando ao desenvolvimento backend com foco em JavaScript, Node.js e MySQL.
+Tenho experiência com PHP, JavaScript, C, Python e outras tecnologias, e estou sempre em busca de aprender e aplicar novos conhecimentos em projetos práticos. 
 
 ---
 
