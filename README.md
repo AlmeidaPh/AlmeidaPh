@@ -90,7 +90,7 @@ Tenho experiência com PHP, JavaScript, C, Python e outras tecnologias, e estou 
       align="left" 
       alt="GitHub Stats" 
       height="190" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almeidaph&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almeidaph&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
