@@ -3,8 +3,7 @@
 
 **`Cursando Técnico em Informática Para a Internet`**
 
-Olá, me chamo Phillipe! Tenho 18 anos e estou no 3º ano do Ensino Médio, além de cursar Informática para a Internet na ETEC de Hortolândia - SP. Atualmente, estou me dedicando ao desenvolvimento backend com foco em JavaScript, Node.js e MySQL.
-Tenho experiência com PHP, JavaScript, C, Python e outras tecnologias, e estou sempre em busca de aprender e aplicar novos conhecimentos em projetos práticos. 
+Olá, me chamo Phillipe! Tenho 18 anos e atualmente no 3º ano do Ensino Médio, além de cursar Informática para a Internet na ETEC de Hortolândia - SP. Me dedico ao desenvolvimento web com foco em TypeScript, Next.js e MySQL e outras tecnologias. Estou sempre em busca de aprender e aplicar novos conhecimentos em projetos práticos. 
 
 ---
 
@@ -12,8 +11,8 @@ Tenho experiência com PHP, JavaScript, C, Python e outras tecnologias, e estou 
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Html5"
+    title="Html5" 
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
@@ -21,8 +20,8 @@ Tenho experiência com PHP, JavaScript, C, Python e outras tecnologias, e estou 
 
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Css3" 
+    title="Css3"
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
@@ -31,11 +30,29 @@ Tenho experiência com PHP, JavaScript, C, Python e outras tecnologias, e estou 
 
 <img 
     align="left" 
-    alt="JAVASCRIPT" 
-    title="JAVASCRIPT"
+    alt="JavaScript" 
+    title="JavaScript"
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
 <img 
@@ -67,8 +84,8 @@ Tenho experiência com PHP, JavaScript, C, Python e outras tecnologias, e estou 
 
 <img 
     align="left" 
-    alt="LARAVEL" 
-    title="LARAVEL"
+    alt="Laravel" 
+    title="Laravel"
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
@@ -85,8 +102,8 @@ Tenho experiência com PHP, JavaScript, C, Python e outras tecnologias, e estou 
 
 <img 
     align="left" 
-    alt="NextJS" 
-    title="NextJS"
+    alt="Next.js" 
+    title="Next.js"
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
