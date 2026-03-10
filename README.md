@@ -3,7 +3,7 @@
 **Desenvolvedor Back-End em formação**
 
 
-Sou estudante de **Engenharia de Software** e possuo formação técnica em **Informática para a Internet pela ETEC de Hortolândia**.
+Sou estudante de **Engenharia de Software** e possuo formação técnica em **Informática para a Internet pela ETEC de Hortolândia - SP**.
 
 Atualmente direciono meus estudos para **desenvolvimento Back-End com Java e Spring Boot**, criação de **APIs REST** e **modelagem de bancos de dados**.
 
