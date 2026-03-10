@@ -1,8 +1,7 @@
-# Phillipe Almeida
+## Olá, eu sou Phillipe Almeida
 
 **Desenvolvedor Back-End em formação**
 
-Olá! Me chamo **Phillipe Almeida**, tenho **18 anos** e moro em **Hortolândia - SP**.
 
 Sou estudante de **Engenharia de Software** e possuo formação técnica em **Informática para a Internet pela ETEC de Hortolândia**.
 
